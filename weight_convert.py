@@ -9,4 +9,4 @@ elif(set == 2):
     convert = weight * 2.2046
     print('You weight is ',convert,'Pounds(lbs)')
 else:
-    print('Plese select only 1 or 2')
+    print('Please type only 1 or 2')
