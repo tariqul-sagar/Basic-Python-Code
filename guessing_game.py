@@ -11,6 +11,6 @@ while g_count < g_limit:
         print(f"The guess number is {n}")
         break
 else:
-    print("You failed!")
+    print("You failed! Better Luck Next Time.")
     print(f"The number is {n}")
 
